@@ -13,7 +13,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /*
- * ServerInformation
+ * ArmorStandRemover
  * @license    LGPv3
  * @copyright  Copyright gorogoro.space 2021
  * @author     kubotan
